@@ -71,3 +71,25 @@ Here's why these keywords are important:
 *   **"screen replacement kit"**: This ensures you get all the necessary parts for the replacement, not just the screen itself.
 *   **"with LCD and digitizer"**: This is to make sure you get the complete screen assembly, as some kits only come with the glass.
 *   **"OEM"**: This stands for "Original Equipment Manufacturer" and can help you find higher-quality parts that are closer to the original.
+
+## AliExpress Product Found
+
+Here is a product found on AliExpress that matches the search criteria:
+
+*   **Product:** "מקורי LCD 10.5 עבור Apple iPad Air 3 2019 A2152 A2123 תצוגה מסך מגע דיגיטייזר התקן LCD עבור iPad Pro 10.5 הדור השני" (Original LCD 10.5 for Apple iPad Air 3 2019 A2152 A2123 Display Touch Screen Digitizer Device LCD for iPad Pro 10.5 2nd Generation)
+*   **Price:** ₪255.22
+*   **Seller:** BOLLAZHi LCD Store (4.9 rating)
+*   **Compatibility:** A2152, A2123
+*   **Includes:** LCD and digitizer assembly.
+*   **Link:** [https://he.aliexpress.com/item/1005005828248232.html](https://he.aliexpress.com/item/1005005828248232.html)
+
+## Installation Guides
+
+Here are some resources to help with the installation of the replacement screen:
+
+*   **YouTube Video Guides:**
+    *   [iPad Air 3 Screen Replacement by Phone Repair Guru](https://www.youtube.com/watch?v=3G1g7-1_3Gk)
+    *   [iPad Air 3 Screen REPLACEMENT... COMPLETE GUIDE by Fixes an Things](https://www.youtube.com/watch?v=gI11391vTjM)
+    *   [iPad Air 3 (A2152) Screen Replacement by Gadget Menders](https://www.youtube.com/watch?v=J_j8nQ3b_qM)
+*   **Apple Self Service Repair:**
+    *   Apple provides official repair manuals and parts. More information can be found at [https://support.apple.com/self-service-repair](https://support.apple.com/self-service-repair).
